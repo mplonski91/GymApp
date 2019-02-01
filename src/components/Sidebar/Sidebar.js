@@ -5,7 +5,7 @@ const { Sider } = Layout;
 
 const Sidebar = () => (
   <Sider>
-    <Menu theme="dark" defaultSelectedKeys={["1"]} mode="inline">
+    <Menu theme="dark" defaultSelectedKeys={["3"]} mode="inline">
       <Menu.Item key="1">
         <Icon type="team" />
         <span>
